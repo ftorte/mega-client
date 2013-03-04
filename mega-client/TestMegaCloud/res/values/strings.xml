@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TestMacaCloudActivity!</string>
+    <string name="app_name">TestMacaCloud</string>
+    <string name="Login">Login</string>
+    <string name="username">Inser your e-mail</string>
+    <string name="password">password</string>
+    <string name="AutoLogin">" auto login"</string>
+    <string name="autologinaccessrule">limited access on auto-login</string>
+
+</resources>
